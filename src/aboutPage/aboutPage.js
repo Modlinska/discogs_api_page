@@ -36,18 +36,7 @@ const AboutPage = props => (
 			vulputate aliquam mollis. Cras sit amet felis a nulla laoreet tincidunt.
 			Nulla bibendum mauris at lorem dignissim tincidunt. Duis nisi nisi, vehicula
 			sed vestibulum sit amet, vulputate quis tortor. Quisque sed varius nunc.
-			Fusce convallis facilisis ante, at rhoncus nibh varius vitae. Quisque vel
-			iaculis arcu. Vivamus sit amet fringilla ligula. Proin ac orci in lacus
-			lacinia rutrum. Fusce porttitor aliquam nulla et volutpat. Praesent
-			imperdiet vehicula felis, sit amet interdum arcu laoreet sit amet. Quisque
-			pellentesque eget urna vitae cursus. Integer ornare varius feugiat. Lorem
-			ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor ligula
-			sapien, porttitor gravida augue ultrices id. Praesent tempus risus et risus
-			ultrices, vel pharetra lorem posuere. Suspendisse ultrices mi in rhoncus
-			elementum. Sed condimentum euismod risus, a feugiat libero semper suscipit.
-			Morbi sit amet ligula ipsum. Maecenas suscipit urna et erat congue pulvinar.
-			Sed at nulla nisl. Donec interdum sapien a augue sollicitudin, vel tincidunt
-			augue gravida.
+			Fusce convallis facilisis ante, at rhoncus nibh varius vitae. .
 		</p>
     </section>
 );
