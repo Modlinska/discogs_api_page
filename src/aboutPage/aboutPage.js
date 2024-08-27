@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutPage = props => (
     <section className="about_page">
-        <h2 className="about_page_heading">About page</h2>
+        <h1 className="about_page_heading">About page</h1>
 		<p className="about_page_description">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque accumsan
 			ullamcorper sem, quis accumsan enim lobortis ac. Nullam urna nibh, interdum
