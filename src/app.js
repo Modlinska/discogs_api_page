@@ -4,8 +4,6 @@ import ArtistDetal from './artistDetalTemplate/ArtistDetal';
 import AboutPage from './aboutPage/aboutPage';
 import Menu from './common/menu';
 
-
-
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 const App = () => (
@@ -22,7 +20,5 @@ const App = () => (
         </div>
     </Router>
 )
-
-
 
 export default App;
